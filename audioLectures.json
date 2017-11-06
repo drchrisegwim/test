@@ -1,0 +1,42 @@
+[
+  {
+    "id": "1",
+    "name": "Your first program - Hello world",
+    "description": "This is your first cpp program that displays Hello world",
+    "image": "http://lappymechanic.com/xtianfolder/cpp%20images/1.1.png",
+    "music_url": "http://lappymechanic.com/xtianfolder/cpp%20audios/cpptutorial1.mp3",
+	"link": "https://sites.google.com/site/christainegwim/"
+  },
+  {
+    "id": "2",
+    "name": "Variables, inputs & math operators",
+    "description": "As the title suggets.",
+    "image": "http://lappymechanic.com/xtianfolder/cpp%20images/2.2.png",
+    "music_url": "http://lappymechanic.com/xtianfolder/cpp%20audios/cpptutorial2.mp3",
+	"link": "https://sites.google.com/site/christainegwim/"
+  },
+  {
+    "id": "3",
+    "name": "If command & comparation ops",
+    "description": "This is the description of If command & comparation ops.",
+    "image": "http://lappymechanic.com/xtianfolder/cpp%20images/3.3.png",
+    "music_url": "http://lappymechanic.com/xtianfolder/cpp%20audios/cpptutorial3.mp3",
+	"link": "https://sites.google.com/site/christainegwim/"
+  },
+  {
+    "id": "4",
+    "name": "While loops",
+    "description": "Describing while loops.",
+    "image": "http://lappymechanic.com/xtianfolder/cpp%20images/4.4.png",
+    "music_url": "http://lappymechanic.com/xtianfolder/cpp%20audios/cpptutorial4.mp3",
+	"link": "https://sites.google.com/site/christainegwim/"
+  },
+  {
+    "id": "5",
+    "name": "For loops",
+    "description": "Also decribing for loops.",
+    "image": "http://lappymechanic.com/xtianfolder/cpp%20images/5.5.png",
+    "music_url": "http://lappymechanic.com/xtianfolder/cpp%20audios/cpptutorial5.mp3",
+	"link": "https://sites.google.com/site/christainegwim/"
+  }
+]
